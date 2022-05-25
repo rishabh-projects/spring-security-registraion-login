@@ -1,12 +1,10 @@
-# spring-security-tutorial
+# spring-security-registration-login
 
 https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
 
 https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
 
 https://www.oauth.com/playground/
-
-spring-security-tutorial
 
 We will be implementing Complete Registration Flow with Email Verification, Resend Email Verification Code, Forgot Password, Change Password, and Login Functionality with OAuth 2.0 and Open Id Connect.
 
