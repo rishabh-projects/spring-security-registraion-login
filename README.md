@@ -1,6 +1,5 @@
 # spring-security-registration-login
 
-<<<<<<< HEAD
 # https://www.baeldung.com/registration-with-spring-mvc-and-spring-security
 
 # https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth
